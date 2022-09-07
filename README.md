@@ -6,7 +6,7 @@ Vless & Vmess:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/aminosred25/Xray-heroku&branch=main)
 
 **Risk of account blocking for abuse!**
 
